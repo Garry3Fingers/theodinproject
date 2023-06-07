@@ -4,7 +4,7 @@
 
 Some of the topics we cover include:
 
--   Ruby
+-   RubY
 -   Ruby on Rails
 -   SQL
 -   HTML and CSS
