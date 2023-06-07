@@ -53,3 +53,7 @@ yarn-debug.log*
 
 # Vim Swap File
 .swp
+test.rb
+.DS_Store
+*.swp
+.vscode/
